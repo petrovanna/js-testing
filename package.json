@@ -1,0 +1,23 @@
+{
+  "name": "js-testing-goal-capitalize",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petrovanna/js-testing-goal-capitalize.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/petrovanna/js-testing-goal-capitalize/issues"
+  },
+  "homepage": "https://github.com/petrovanna/js-testing-goal-capitalize#readme"
+}
